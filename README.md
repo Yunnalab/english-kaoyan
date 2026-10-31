@@ -2,6 +2,8 @@
 
 27/28 考研英语一 / 英语二资料库（持续调整更新）
 
+同系列仓库：[math-kaoyan](https://github.com/Yunnalab/math-kaoyan)（数学）· [koyan408for2728](https://github.com/Yunnalab/koyan408for2728)（408）
+
 ## 目录
 
 | 目录                               | 资料                                                              |
